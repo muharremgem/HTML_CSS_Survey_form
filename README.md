@@ -18,8 +18,7 @@ Project aims to create survey form within html and css.
 
 ## Project Design
 
-- <a href="https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4">https://www.figma.com/file/HXULRJVkPlaCpxQlbm82bX/Project001?node-id=6%3A4<a>
-
+- Figma
 ## Project Skeleton 
 
 ```
